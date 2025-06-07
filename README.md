@@ -1,4 +1,6 @@
-![logo](https://github.com/user-attachments/assets/46c56c9a-3fb8-4827-87ae-bb664bc09ef5)
+![castle](https://github.com/user-attachments/assets/15d0d062-a25c-4d02-a7dd-82fb6c9951c2)
+
+## theKeep - A Curated Collection
 
 Link: https://keep.olliware.dev/
 
